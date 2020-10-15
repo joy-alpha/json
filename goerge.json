@@ -5,18 +5,26 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Home",
-        "provider": "wordpress",
+        "title": "Flirt Deutschland",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://www.awin1.com/cread.php?awinmid=18366&awinaffid=625033&clickref=landingpage1",
           "deals"
         ]
       },
       {
-        "title": "SHOP BY CATEGORY",
-        "provider": "wordpress",
+        "title": "C-Date",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://inspxtrc.com/?a=15526&c=352&s1=",
+          "usa_new"
+        ]
+      },
+      {
+        "title": "kizzle",
+        "provider": "webview",
+        "arguments": [
+          "https://www.awin1.com/cread.php?awinmid=13573&awinaffid=625033&clickref=landingpage1",
           "usa_new"
         ]
       }
