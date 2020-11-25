@@ -1,0 +1,59 @@
+[
+  {
+    "title": "USA",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Flirt Deutschland",
+        "provider": "webview",
+        "arguments": [
+          "https://instaquiz.app/tracking/partnersuche-dating-deutschland-flirtcom.html",
+          "deals"
+        ]
+      },
+      {
+        "title": "Singles in der nähe",
+        "provider": "webview",
+        "arguments": [
+          "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
+          "usa_new"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Other Countries",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Top Films and series",
+        "image": "",
+        "provider": "wordpress",
+        "arguments": [
+          "",
+          "deals"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Settings",
+    "drawable": "",
+    "submenu": "Other",
+    "tabs": [
+      {
+        "title": "",
+        "provider": "custom",
+        "arguments": [
+          "",
+          "fragment"
+        ]
+      }
+    ],
+    "iap": false
+  }
+]
