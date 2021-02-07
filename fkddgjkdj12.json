@@ -6,7 +6,7 @@
     "tabs": [
       {
         "title": "Flirt Deutschland",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
           "https://www.awin1.com/cread.php?awinmid=18366&awinaffid=625033&clickref=landingpage4",
           "deals"
@@ -14,7 +14,7 @@
       },
       {
         "title": "Singles in der nähe",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
           "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
           "usa_new"
@@ -22,7 +22,7 @@
       },
       {
         "title": "Flirt Community",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
           "https://www.awin1.com/cread.php?awinaffid=625033&awinmid=17403&platform=dl&ued=https%3A%2F%2Fwww.interfriendship.de%2F&clickref=landingpage2",
           "usa_new"
